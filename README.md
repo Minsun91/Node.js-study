@@ -1,7 +1,6 @@
-# Node.js-study
-항해99 Node.js 과제
+# Node.js-study 
 
-[JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?]
+[JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?](https://github.com/Minsun91/Node.js-study/blob/a9fa50e3538cc6f0b738b799c530fd3253dba532/JS%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%ED%8A%B9%EC%84%B1.md)
 
 
 [JavaScript 객체와 불변성이란?]
