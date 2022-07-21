@@ -115,7 +115,8 @@ count()를 호출하였을 때 정상 작동한다.
 
 
 ### let, const, var, function의 작동 원리
-![image]("https://stephaniejoymills.com/dark-table-5ec7c8c60d7f366b7812e214d58a3c3d.svg")
+![images](https://stephaniejoymills.com/dark-table-5ec7c8c60d7f366b7812e214d58a3c3d.svg)
+
 
 ### 실행 컨텍스트와 콜 스택
 ##### 실행 콘텍스트 (Record/outer)
