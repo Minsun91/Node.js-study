@@ -130,7 +130,7 @@ count()를 호출하였을 때 정상 작동한다.
 변수를 참조할 때 js는 스코프 체인을 통해 변수를 참조.
 변수가 해당 지역에 없다면, 상위 스코프로 올라가면서 변수를 참조한다. 
 
-![image](file:///Users/minsun/Desktop/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%91%E1%85%B3%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB.png)
+![image]("https://github.com/Minsun91/Node.js-study/issues/1#issue-1312274026")
 
 ### 변수 은닉화
 외부에서 임의로 해당 속성의 값을 변경하지 못하도록 하는 것
